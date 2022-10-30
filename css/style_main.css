@@ -216,9 +216,9 @@ body {
 }
 .action_title {
     text-align: center;
-    color: white;
-    font-size: 5vh;
-    padding: 5px 0px;
+    color: rgb(165, 223, 165);
+    font-size: 6vh;
+    padding: 5px 3px 5px 0px;
     margin: 15px 0px;
 }
 .action_card{
